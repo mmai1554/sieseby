@@ -14,6 +14,13 @@
             <td>… als Hauptspeise</td>
             <td>21,50 €</td>
         </tr>
+        <!--        -->
+        <tr>
+            <td>Essenz vom Fleckebyer Wasserbüffel<br>
+                und Steinpilzen mit Grießklösschen
+            </td>
+            <td>9,50 €</td>
+        </tr>
         <tr>
             <td>Steckrüben Süpp’chen mit Speckcroutons</td>
             <td>6,50 €</td>
@@ -22,9 +29,9 @@
             <td>
                 Schmankerle für zwei<br>
                 (natürlich auch möglich für eine Person)<br>
-                Unsere sechs verschiedenen Vorspeisen Wintergemüse und Hülsenfrüchten
+                Unsere vier beliebtesten winterlichen Vorspeisen mit Riesengarnelen auf Passepierre Algen
             </td>
-            <td>19,50 €</td>
+            <td>26,50 €</td>
         </tr>
         <!--        -->
         <tr class="grp">
@@ -40,28 +47,19 @@
         </tr>
         <!--        -->
         <tr>
-            <td>
-                Ackersalat
-                und überbackener Ziegenkäse
-
-            </td>
+            <td>Ackersalat und überbackener Ziegenkäse</td>
             <td>
                 9,50 €
             </td>
         </tr>
         <!--        -->
-        <tr class="grp">
-            <td colspan="2">Foie gras<br>
-                kurz angebraten mit Zwiebel/Apfel Confit und getoastetem Brioche
+        <tr>
+            <td>Hausgemachte Geflügelpaté<br>
+                mit Toast von Brioche und Salat
             </td>
-        </tr>
-        <tr class="grp">
-            <td> … als Vorspeise</td>
-            <td>16,50 €</td>
-        </tr>
-        <tr class="grp last">
-            <td>… als Hauptgericht</td>
-            <td>21,50 €</td>
+            <td>
+                13,50 €
+            </td>
         </tr>
         <!--        -->
         <tr class="grp">
@@ -86,20 +84,8 @@
         <!--        -->
         <tr>
             <td>
-                Steak (Entrecôte)
-                von der Holsteiner Färse mit unseren Pommes und Salat
-
-            </td>
-            <td>
-                24,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
                 Kalbsschnitzel
                 mit Gurkensalat, Kartoffelstampf und Preisselbeeren
-
             </td>
             <td>
                 19,50 €
@@ -108,10 +94,8 @@
         <!--        -->
         <tr>
             <td>
-                Abendbrot
-                Wurscht und Käse, geräucherter Fisch,
-                dunkles Brot und gute Butter (auch am Mittag)
-
+                ..vegetarisch<br>
+                Gemüse Tarte Tatin mit unserem winterlichen Salat
             </td>
             <td>
                 16,50 €
@@ -120,44 +104,32 @@
         <!--        -->
         <tr>
             <td>
-                …vegetarisch
-                Gemüse Tarte Tatin mit unserem winterlichen Salat
+                Gänsekeule konfiert<br>
+                Rotkohl und hausgemachte Serviettenknödel
             </td>
-            <td>
-                16,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
-                Ganze Landente für Zwei
-                Serviettenknödel hausgemacht, Rot- und Rosenkohl, Orangensauce
-            <td>
-                49,00 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
-                Schmorbraten vom Damwild aus Grünholz
-                Röstgemüse mit Kürbis und Maronen, Anna Kartoffeln
             <td>
                 23,50 €
             </td>
         </tr>
         <!--        -->
-        <tr class="grp">
-            <td colspan="2">Himmel und Erde
-                gebratene Blutwurst auf Kartoffelstampf, Schmoräpfel
+        <tr>
+            <td>
+                Schmorbraten vom Damwild aus Grünholz<br>
+                Röstgemüse mit Kürbis und Maronen, Kartoffelgratin
+            </td>
+            <td>
+                23,50 €
             </td>
         </tr>
-        <tr class="grp">
-            <td> … als Vorspeise</td>
-            <td>9,50 €</td>
-        </tr>
-        <tr class="grp last">
-            <td>… als Hauptgericht</td>
-            <td>17,50 €</td>
+        <!--        -->
+        <tr>
+            <td>
+                Hummer Thermidor<br>
+                klassisches Hummerragout in der Schale mit hausgemachtem Baguette und Salat
+            </td>
+            <td>
+                26,50 €
+            </td>
         </tr>
         </tbody>
     </table>
