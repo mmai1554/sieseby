@@ -22,7 +22,7 @@
             <td>
                 Schmankerle für zwei<br>
                 (natürlich auch möglich für eine Person)<br>
-                Unsere sechs verschiedenen Vorspeisen aus dem Frühlingsgarten und von Hülsenfrüchten
+                Unsere sechs verschiedenen Vorspeisen Wintergemüse und Hülsenfrüchten
             </td>
             <td>19,50 €</td>
         </tr>
