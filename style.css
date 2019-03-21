@@ -16,7 +16,7 @@ Template: bb-theme
 
 .fl-builder-pagination li a.page-numbers:hover, .fl-builder-pagination li span.current { background: #fff; text-decoration: none; }
 
-.fl-builder-pagination li a.page-numbers, .fl-builder-pagination li span.page-numbers { border: 1px solid #ffe5a4; display: inline-block; padding: 5px 10px; margin: 0 0 5px; }
+.fl-builder-pagination li a.page-numbers, .fl-builder-pagination li span.page-numbers { border: 1px solid #ffe5a5; display: inline-block; padding: 5px 10px; margin: 0 0 5px; }
 
 .mi-form select, .mi-form input[type='text'], .mi-form input[type='radio'], .mi-form input[type='password'], .mi-form input[type='tel'], .mi-form input[type='email'], .mi-form input[type='checkbox'], .mi-form input[type='date'], .mi-form textarea { background-color: #FFF; }
 .mi-form label { width: 100%; }
@@ -69,3 +69,8 @@ h4, h5 { font-family: "Roboto", Helvetica, serif; }
 @media (max-width: 768px) { .speisekarte td:first-child { font-size: 16px; } }
 .speisekarte td:nth-child(2) { text-align: right; white-space: nowrap; }
 @media (max-width: 768px) { .speisekarte td:nth-child(2) { font-size: 16px; } }
+.speisekarte div { margin: 40px 0; }
+.speisekarte h4 { font-family: "Droid Sans",sans-serif; font-size: 20px; font-weight: 700; color: #5b5b5b; }
+.speisekarte ul { padding-left: 0; }
+.speisekarte ul li { display: flex; justify-content: space-between; list-style-type: none; margin-bottom: 10px; font-size: 20px; }
+.speisekarte ul li span { white-space: nowrap; font-weight: bold; align-self: flex-end; }

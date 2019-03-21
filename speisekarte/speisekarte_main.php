@@ -1,136 +1,103 @@
-<div class="speisekarte">
-
-
-    <table>
-        <tbody>
-        <tr class="grp">
-            <td colspan="2">Fischpott mit Ostseefischen im Butterkrebssud</td>
-        </tr>
-        <tr class="grp">
-            <td>… als Vorsuppe</td>
-            <td>10,50 €</td>
-        </tr>
-        <tr class="grp last">
-            <td>… als Hauptspeise</td>
-            <td>21,50 €</td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>Essenz vom Fleckebyer Wasserbüffel<br>
-                und Steinpilzen mit Grießklösschen
-            </td>
-            <td>9,50 €</td>
-        </tr>
-        <tr>
-            <td>Steckrüben Süpp’chen mit Speckcroutons</td>
-            <td>6,50 €</td>
-        </tr>
-        <tr>
-            <td>
-                Schmankerle für zwei<br>
-                (natürlich auch möglich für eine Person)<br>
-                Unsere vier beliebtesten winterlichen Vorspeisen mit Riesengarnelen auf Passepierre Algen
-            </td>
-            <td>26,50 €</td>
-        </tr>
-        <!--        -->
-        <tr class="grp">
-            <td colspan="2"> Beef Tatar1867</td>
-        </tr>
-        <tr class="grp">
-            <td> … als Vorspeise</td>
-            <td>16,50 €</td>
-        </tr>
-        <tr class="grp last">
-            <td>… als Hauptgericht</td>
-            <td>21,50 €</td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>Ackersalat und überbackener Ziegenkäse</td>
-            <td>
-                9,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>Hausgemachte Geflügelpaté<br>
-                mit Toast von Brioche und Salat
-            </td>
-            <td>
-                13,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr class="grp">
-            <td colspan="2">Knusprige Bratkartoffeln und Salat</td>
-        </tr>
-        <tr class="grp">
-            <td>… mit Roastbeef und unserer Kräuterremoulade</td>
-            <td>21,50 €</td>
-        </tr>
-        <tr class="grp">
-            <td>… mit Dorsch auf Senfsoße</td>
-            <td>21,50 €</td>
-        </tr>
-        <tr class="grp">
-            <td>… mit Aal in Sauer</td>
-            <td>24,50 €</td>
-        </tr>
-        <tr class="grp last">
-            <td>… vegan mit Zitronenpfeffer, Avocado-Dip, hausgemachtem Curry-Ketchup</td>
-            <td>16,50 €</td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
-                Kalbsschnitzel
-                mit Gurkensalat, Kartoffelstampf und Preisselbeeren
-            </td>
-            <td>
-                19,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
-                ..vegetarisch<br>
-                Gemüse Tarte Tatin mit unserem winterlichen Salat
-            </td>
-            <td>
-                16,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
-                Gänsekeule konfiert<br>
-                Rotkohl und hausgemachte Serviettenknödel
-            </td>
-            <td>
-                23,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
-                Schmorbraten vom Damwild aus Grünholz<br>
-                Röstgemüse mit Kürbis und Maronen, Kartoffelgratin
-            </td>
-            <td>
-                23,50 €
-            </td>
-        </tr>
-        <!--        -->
-        <tr>
-            <td>
-                Hummer Thermidor<br>
-                klassisches Hummerragout in der Schale mit hausgemachtem Baguette und Salat
-            </td>
-            <td>
-                26,50 €
-            </td>
-        </tr>
-        </tbody>
-    </table>
+<div class="speisekarte hauptkarte">
+    <div>
+        <h4>Fischpott mit Ostseefischen im Butterkrebssud</h4>
+        <ul>
+            <li>… als Vorsuppe: <span>10,50 €</span></li>
+            <li>… als Hauptspeise: <span>21,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Kerbelsüpp’chen</h4>
+        <ul>
+            <li>mit verlorenem Ei: <span>8,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Schmankerle für zwei</h4>
+        <ul>
+            <li>(natürlich auch möglich für eine Person)<br>
+                6 kleine Vorspeisen von winterlichem Gemüse- und Hülsenfrüchten: <span>26,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Beef Tatar1867</h4>
+        <ul class="grp">
+            <li>… als Vorspeise: <span>16,50 €</span></li>
+            <li>… als Hauptgericht: <span>21,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Ackersalat</h4>
+        <ul>
+            <li>und überbackener Ziegenkäse: <span>9,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Tatar vom Saibling</h4>
+        <ul>
+            <li>mit Gurke und Tomaten, Fisch/Teriyaki-Fond: <span>14,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Zwei weiche Landeier</h4>
+        <ul>
+            <li>zum Stippen mit geröstetem Landbrot und regionalem Käse: <span>14,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Knusprige Bratkartoffeln und Salat</h4>
+        <ul>
+            <li>… mit Roastbeef und unserer Kräuteremoulade: <span>21,50 €</span></li>
+            <li>… mit Dorschauf Senfsoße: <span>21,50 €</span></li>
+            <li>… Aal in Gelee: <span>24,50 €</span></li>
+            <li>… vegan mit Zitronenpfeffer, Avocado-Dip, hausgemachten Curry-Ketchup: <span>16,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Steak (Entrecôte)</h4>
+        <ul>
+            <li>von der Holsteiner Färse mit unseren Pommes und Salat: <span>24,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Kalbsschnitzel</h4>
+        <ul>
+            <li>mit Gurkensalat, Kartoffelstampf und Preisselbeeren: <span>20,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>... vegetarisch</h4>
+        <ul>
+            <li>Gemüse Tarte Tatin mit Grossholzer Salat: <span>16,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Tafelspitz "Plachutta"</h4>
+        <ul>
+            <li>mit Brühe vorweg: <span>23,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Aioli provencal</h4>
+        <ul>
+            <li>mit Dorsch und Saibling, Garnele, Wellhornschnecke,
+                einem harten Ei, Gemüse und kleine Kartoffeln
+                dazu hausgemachtes Aioli
+            </li>
+            <li>... für 2 Personen: <span>43,50 €</span></li>
+            <li>... für 1 Person: <span>23,50 €</span></li>
+        </ul>
+    </div>
 </div>

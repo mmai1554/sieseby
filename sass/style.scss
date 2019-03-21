@@ -55,6 +55,7 @@ $prefix: '/wp-content/themes/sieseby';
   background: url(../../../wp-content/uploads/2016/07/umbau_sieseby.jpg) no-repeat scroll left center;
   background-size: cover;
   padding: 50px 0;
+
   .mm-header-sign {
     display: block;
     width: 350px;
@@ -92,22 +93,28 @@ $prefix: '/wp-content/themes/sieseby';
   select, input[type='text'], input[type='radio'], input[type='password'], input[type='tel'], input[type='email'], input[type='checkbox'], input[type='date'], textarea {
     background-color: #FFF;
   }
+
   label {
     width: 100%;
   }
+
   input[type='text'], textarea {
     width: 100% !important;
   }
+
   span.wpcf7-list-item {
     display: block;
   }
+
   .wpcf7-not-valid-tip {
     color: #a2032f;
   }
+
   .wpcf7-validation-errors {
     border: 2px solid #a2032f;
     background-color: #FFF;
   }
+
   .wpcf7-mail-sent-ok {
     background-color: #FFF;
   }
@@ -115,6 +122,7 @@ $prefix: '/wp-content/themes/sieseby';
 
 .fl-page-header-logo {
   text-align: left;
+
   img {
     // max-width:400px;
     text-align: left;
@@ -152,12 +160,15 @@ $prefix: '/wp-content/themes/sieseby';
 .mi-tel {
   padding-top: 63px;
   color: #D0D8DB;
+
   a {
     color: #D0D8DB;
+
     &:hover {
       color: #D0D8DB;
     }
   }
+
   @include bp(mobile) {
     padding-top: 0;
     text-align: center;
@@ -192,7 +203,7 @@ $prefix: '/wp-content/themes/sieseby';
   font-family: "Roboto", sans-serif !important;
   // color: #813025;
   a {
-    color:$color-primary-4;
+    color: $color-primary-4;
   }
 }
 
@@ -202,66 +213,101 @@ h4, h5 {
 
 .mi-wrapper-fb {
   ul {
-    float:left;
+    float: left;
     margin-right: 10px;
   }
+
   span {
     float: left;
   }
+
   span:after {
     clear: both;
   }
+
   i {
-    color:#FFF !important;
+    color: #FFF !important;
   }
 }
 
 .speisekarte {
   table {
     border-collapse: collapse;
-    border:0;
-    width:100%;
+    border: 0;
+    width: 100%;
   }
+
   td {
     vertical-align: bottom;
-    font-size:20px;
-    padding:10px 5px;
+    font-size: 20px;
+    padding: 10px 5px;
+
     p {
       line-height: inherit;
-      padding:0;
-      margin:0;
+      padding: 0;
+      margin: 0;
     }
-    border-bottom:2px dashed darken(#FCEFCF, 10%);
+
+    border-bottom: 2px dashed darken(#FCEFCF, 10%);
   }
+
   tr.grp {
     td {
-      border-bottom:0;
-      padding:2px 5px;
+      border-bottom: 0;
+      padding: 2px 5px;
     }
   }
+
   tr.last {
     td {
-      padding:2px 5px;
-      border-bottom:2px dashed darken(#FCEFCF, 10%);
+      padding: 2px 5px;
+      border-bottom: 2px dashed darken(#FCEFCF, 10%);
     }
   }
+
   // tr:nth-child(odd) {background: darken(#fff8e8, 5%)}
   td:first-child {
-    width:70%;
+    width: 70%;
     // font-family: "Pacifico", sans-serif !important;
-    font-size:20px;
+    font-size: 20px;
     @include bp(mobile) {
-      font-size:16px;
+      font-size: 16px;
     }
     // color: #7a2e11;
-    text-align:left;
+    text-align: left;
   }
+
   td:nth-child(2) {
     // font-family: "Pacifico", sans-serif !important;
     text-align: right;
     white-space: nowrap;
     @include bp(mobile) {
-      font-size:16px;
+      font-size: 16px;
+    }
+  }
+  div {
+    margin:40px 0;
+  }
+  h4 {
+    font-family: "Droid Sans",sans-serif;
+    font-size:20px;
+    font-weight:700;
+    color:#5b5b5b;
+  }
+  ul {
+    padding-left: 0;
+    li {
+      display: flex;
+      justify-content: space-between;
+      list-style-type: none;
+      margin-bottom: 10px;
+      font-size: 20px;
+
+      span {
+        white-space: nowrap;
+        font-weight: bold;
+        align-self: flex-end;
+      }
     }
   }
 }
