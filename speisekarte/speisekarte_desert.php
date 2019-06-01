@@ -9,14 +9,14 @@
     <div>
         <h4>Mousse au Chocolat "Valrhona"</h4>
         <ul>
-            <li>mit Quittenkompott: <span>8,50 €</span></li>
+            <li>mit Rhabarberkompott: <span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
-        <h4>Quark Soufflé</h4>
+        <h4>Pavlova</h4>
         <ul>
-            <li>mit Rotweinpflaumen: <span>8,50 €</span></li>
+            <li>hausgemachtes Baiser, Schlagsahne und Erdbeeren: <span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->

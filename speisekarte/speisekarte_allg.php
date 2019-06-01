@@ -15,9 +15,9 @@
     </div>
     <!--    -->
     <div>
-        <h4>Bouzigues Auster aus Frankreich</h4>
+        <h4>Donegal No 2</h4>
         <ul>
-            <li>Klassisch auf Eis mit Zitrone. Je: <span>3,70 €</span></li>
+            <li>Irische Felsenauster<br>Klassisch auf Eis mit Zitrone <span>je 3,70 €</span></li>
             <li>Ein Dutzend: <span>35,00 €</span></li>
         </ul>
     </div>

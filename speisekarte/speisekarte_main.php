@@ -40,7 +40,8 @@
     <div>
         <h4>Tatar vom Saibling</h4>
         <ul>
-            <li>mit Gurke und Tomaten, Fisch/Teriyaki-Fond: <span>14,50 €</span></li>
+            <li>mit Gurke und Tomaten,<br>
+                Fisch/Teriyaki-Fond am Platz heiß angegossen: <span>14,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -55,7 +56,7 @@
         <h4>Knusprige Bratkartoffeln und Salat</h4>
         <ul>
             <li>… mit Roastbeef und unserer Kräuteremoulade: <span>21,50 €</span></li>
-            <li>… mit Dorschauf Senfsoße: <span>21,50 €</span></li>
+            <li>… mit Ostseescholle und zerlassenem Speck: <span>21,50 €</span></li>
             <li>… Aal in Gelee: <span>24,50 €</span></li>
             <li>… vegan mit Zitronenpfeffer, Avocado-Dip, hausgemachten Curry-Ketchup: <span>16,50 €</span></li>
         </ul>
@@ -78,16 +79,23 @@
     <div>
         <h4>... vegetarisch</h4>
         <ul>
-            <li>Gemüse Tarte Tatin mit Grossholzer Salat: <span>16,50 €</span></li>
+            <li>Ravioli mit Ziegenfrischkäse und Honig auf Tomatenragout: <span>16,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
-        <h4>Tafelspitz "Plachutta"</h4>
+        <h4>Ossobucu vom Lamm</h4>
         <ul>
-            <li>mit Brühe vorweg: <span>23,50 €</span></li>
+            <li>mit seiner Gremolata: <span>23,50 €</span></li>
         </ul>
     </div>
+    <!--    -->
+<!--    <div>-->
+<!--        <h4>Tafelspitz "Plachutta"</h4>-->
+<!--        <ul>-->
+<!--            <li>mit Brühe vorweg: <span>23,50 €</span></li>-->
+<!--        </ul>-->
+<!--    </div>-->
     <!--    -->
     <div>
         <h4>Aioli provencal</h4>

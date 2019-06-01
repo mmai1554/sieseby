@@ -2,7 +2,7 @@
     <div>
         <h4>Champagner Larmandier Bernier, Latitude</h4>
         <ul>
-            <li>blanc de blanc extra brut. 0.75l <span>69,90 €</span></li>
+            <li>blanc de blanc extra brut 0.75l <span>69,90 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -10,13 +10,13 @@
         <h4>Unser Haussekt, Riesling</h4>
         <ul>
             <li>Glas 0.1l: <span>7,50 €</span></li>
-            <li>mit Rhabarber 0.1l: <span>6,50 €</span></li>
             <li>als Flasche 0.75l: <span>39,00 €</span></li>
+            <li>mit Rhabarber 0.1l: <span>6,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
-        <h4>Aperol Spritz</h4>
+        <h4>Apérol Spritz</h4>
         <ul>
             <li>Je Glas: <span>7,50 €</span></li>
         </ul>
