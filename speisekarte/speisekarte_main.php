@@ -8,9 +8,9 @@
     </div>
     <!--    -->
     <div>
-        <h4>Kerbelsüpp’chen</h4>
+        <h4>Schnüsch</h4>
         <ul>
-            <li>mit verlorenem Ei: <span>8,50 €</span></li>
+            <li>Leichte Angeliter Gemüsesuppe mit Schinken oder Matjes: <span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -18,7 +18,7 @@
         <h4>Schmankerle für zwei</h4>
         <ul>
             <li>(natürlich auch möglich für eine Person)<br>
-                6 kleine Vorspeisen von winterlichem Gemüse- und Hülsenfrüchten: <span>26,50 €</span></li>
+                sechs kleine Vorspeisen von Hülsenfrüchten und aus sommerlichen Gemüsegarten: <span>21,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -46,9 +46,9 @@
     </div>
     <!--    -->
     <div>
-        <h4>Zwei weiche Landeier</h4>
+        <h4>Zarter Matjes</h4>
         <ul>
-            <li>zum Stippen mit geröstetem Landbrot und regionalem Käse: <span>14,50 €</span></li>
+            <li>auf dünnen Scheiben von schwarzem Rettich und Birne: <span>14,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -57,7 +57,7 @@
         <ul>
             <li>… mit Roastbeef und unserer Kräuteremoulade: <span>21,50 €</span></li>
             <li>… mit Ostseescholle und zerlassenem Speck: <span>21,50 €</span></li>
-            <li>… Aal in Gelee: <span>24,50 €</span></li>
+            <li>… Aal in Sauer: <span>24,50 €</span></li>
             <li>… vegan mit Zitronenpfeffer, Avocado-Dip, hausgemachten Curry-Ketchup: <span>16,50 €</span></li>
         </ul>
     </div>
@@ -79,23 +79,16 @@
     <div>
         <h4>... vegetarisch</h4>
         <ul>
-            <li>Ravioli mit Ziegenfrischkäse und Honig auf Tomatenragout: <span>16,50 €</span></li>
+            <li>Ravioli "Caramellen" mit Steinpilzfüllung auf einem Bett von bunten Tomaten und Parmesansplitter: <span>18,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
-        <h4>Ossobucu vom Lamm</h4>
+        <h4>Heidschnucken Schulter geschmort</h4>
         <ul>
-            <li>mit seiner Gremolata: <span>23,50 €</span></li>
+            <li>Ratatouille und Gratin: <span>23,50 €</span></li>
         </ul>
     </div>
-    <!--    -->
-<!--    <div>-->
-<!--        <h4>Tafelspitz "Plachutta"</h4>-->
-<!--        <ul>-->
-<!--            <li>mit Brühe vorweg: <span>23,50 €</span></li>-->
-<!--        </ul>-->
-<!--    </div>-->
     <!--    -->
     <div>
         <h4>Aioli provencal</h4>

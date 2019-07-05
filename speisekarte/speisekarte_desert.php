@@ -16,7 +16,7 @@
     <div>
         <h4>Pavlova</h4>
         <ul>
-            <li>hausgemachtes Baiser, Schlagsahne und Erdbeeren: <span>8,50 €</span></li>
+            <li>hausgemachtes Baiser mit Beerenobst, Pfirsich und Schlagsahne - eine echte Sünde: <span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->
