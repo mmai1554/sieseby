@@ -13,7 +13,6 @@ add_action( 'fl_head', 'FLChildTheme::stylesheet' );
 // enable Shortcodes in Widgets:
 add_filter( 'widget_text', 'do_shortcode' );
 
-// get_stylesheet_directory()
 
 add_shortcode( 'speisekarte', function ( $atts ) {
 	$atts   = shortcode_atts( [ 'tpl' => '' ], $atts );
