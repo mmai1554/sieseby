@@ -25,3 +25,20 @@ add_shortcode( 'speisekarte', function ( $atts ) {
 	$content = ob_get_clean();
 	return $content;
 } );
+
+// Load Recaptcha Script only on Page with Id
+// ID = 338 -> Zimmer Reservieren
+add_action( 'wp_enqueue_scripts', function () {
+	$load_scripts = false;
+	if ( is_singular() ) {
+		$post = get_post();
+		if ( $post->ID == 338 ) {
+			$load_scripts = true;
+		}
+	}
+	if ( ! $load_scripts ) {
+		wp_dequeue_script( 'contact-form-7' );
+		wp_dequeue_script( 'google-recaptcha' );
+		wp_dequeue_style( 'contact-form-7' );
+	}
+}, 99 );
