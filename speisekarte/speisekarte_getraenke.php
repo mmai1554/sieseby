@@ -18,14 +18,14 @@
     <div>
         <h4>Apérol Spritz</h4>
         <ul>
-            <li>Je Glas: <span>7,50 €</span></li>
+            <li>Je Glas: <span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
         <h4>Gin Tonic</h4>
         <ul>
-            <li>Je Glas: <span>7,50 €</span></li>
+            <li>Je Glas: <span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->
