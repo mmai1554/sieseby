@@ -8,9 +8,9 @@
     </div>
     <!--    -->
     <div>
-        <h4>Schnüsch</h4>
+        <h4>Suppe vom Hokaido</h4>
         <ul>
-            <li>Leichte Angeliter Gemüsesuppe mit Schinken oder Matjes: <span>8,50 €</span></li>
+            <li>mit Pfifferlingsragout<span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -18,7 +18,7 @@
         <h4>Schmankerle für zwei</h4>
         <ul>
             <li>(natürlich auch möglich für eine Person)<br>
-                sechs kleine Vorspeisen von Hülsenfrüchten und aus sommerlichen Gemüsegarten: <span>21,50 €</span></li>
+                sechs kleine Vorspeisen aus Herbstgarten-Gemüse und von Hülsenfrüchten: <span>21,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -46,26 +46,28 @@
     </div>
     <!--    -->
     <div>
-        <h4>Zarter Matjes</h4>
+        <h4>Bunte Tomaten</h4>
         <ul>
-            <li>auf dünnen Scheiben von schwarzem Rettich und Birne: <span>14,50 €</span></li>
+            <li>und Basilikum vom Gemüsehof Borby mit Büffelmozarella<br>
+                und feinem Olivenöl mit Limone<span>12,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
         <h4>Knusprige Bratkartoffeln und Salat</h4>
         <ul>
-            <li>… mit Roastbeef und unserer Kräuteremoulade: <span>21,50 €</span></li>
-            <li>… mit Ostseescholle und zerlassenem Speck: <span>21,50 €</span></li>
-            <li>… Aal in Sauer: <span>24,50 €</span></li>
-            <li>… vegan mit Zitronenpfeffer, Avocado-Dip, hausgemachten Curry-Ketchup: <span>16,50 €</span></li>
+            <li><strong>… mit Roastbeef</strong> und unserer Kräuteremoulade: <span>21,50 €</span></li>
+            <li><strong… mit Ostseescholle</strong> und zerlassenem Speck: <span>21,50 €</span></li>
+            <li><strong>… Aal</strong> in Sauer: <span>24,50 €</span></li>
+            <li><strong>… vegan</strong> mit Zitronenpfeffer, Avocado-Dip, hausgemachten Curry-Ketchup: <span>16,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
-        <h4>Steak (Entrecôte)</h4>
+        <h4>Chateaubriand 55 Grad</h4>
         <ul>
-            <li>von der Holsteiner Färse mit unseren Pommes und Salat: <span>24,50 €</span></li>
+            <li>Grüne Schnippelbohnen, Kressebutter und<br>
+                Sauce Béarnaise ab 2 Personen, am Tisch tranchiert<span>p.P 33,00 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -79,7 +81,15 @@
     <div>
         <h4>... vegetarisch</h4>
         <ul>
-            <li>Ravioli "Caramellen" mit Steinpilzfüllung auf einem Bett von bunten Tomaten und Parmesansplitter: <span>18,50 €</span></li>
+            <li>Ravioli mit einer Füllung von Mangold und Pinienkernen<br>
+                auf einem Bett von bunten Tomaten und Parmesan: <span>18,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Kalbstafelspitz</h4>
+        <ul>
+            <li>Bouillongemüse, Apfelmeerettich<span>23,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -93,7 +103,7 @@
     <div>
         <h4>Aioli provencal</h4>
         <ul>
-            <li>mit Dorsch und Saibling, Garnele, Wellhornschnecke,
+            <li>mit Dorsch und Saibling, Garnele, Muscheln,
                 einem harten Ei, Gemüse und kleine Kartoffeln
                 dazu hausgemachtes Aioli
             </li>
