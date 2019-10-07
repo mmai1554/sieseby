@@ -51,3 +51,11 @@ die('not for you!');
 		<li>hausgemachtes Baiser mit Beerenobst, Pfirsich und Schlagsahne - eine echte Sünde: <span>8,50 €</span></li>
 	</ul>
 </div>
+
+<!--    -->
+<div>
+    <h4>Heidschnucken Schulter geschmort</h4>
+    <ul>
+        <li>Ratatouille und Gratin: <span>23,50 €</span></li>
+    </ul>
+</div>

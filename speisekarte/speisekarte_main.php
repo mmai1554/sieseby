@@ -94,13 +94,6 @@
     </div>
     <!--    -->
     <div>
-        <h4>Heidschnucken Schulter geschmort</h4>
-        <ul>
-            <li>Ratatouille und Gratin: <span>23,50 €</span></li>
-        </ul>
-    </div>
-    <!--    -->
-    <div>
         <h4>Aioli provencal</h4>
         <ul>
             <li>mit Dorsch und Saibling, Garnele, Muscheln,
