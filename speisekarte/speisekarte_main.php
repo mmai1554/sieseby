@@ -56,10 +56,10 @@
     <div>
         <h4>Knusprige Bratkartoffeln und Salat</h4>
         <ul>
-            <li><strong>… mit Roastbeef</strong> und unserer Kräuteremoulade: <span>21,50 €</span></li>
-            <li><strong… mit Ostseescholle</strong> und zerlassenem Speck: <span>21,50 €</span></li>
-            <li><strong>… Aal</strong> in Sauer: <span>24,50 €</span></li>
-            <li><strong>… vegan</strong> mit Zitronenpfeffer, Avocado-Dip, hausgemachten Curry-Ketchup: <span>16,50 €</span></li>
+            <li>… mit Roastbeef und unserer Kräuteremoulade: <span>21,50 €</span></li>
+            <li>… mit Ostseescholle und zerlassenem Speck: <span>21,50 €</span></li>
+            <li>… Aal in Sauer: <span>24,50 €</span></li>
+            <li>… vegan mit Zitronenpfeffer, Avocado-Dip, hausgemachten Curry-Ketchup: <span>16,50 €</span></li>
         </ul>
     </div>
     <!--    -->
