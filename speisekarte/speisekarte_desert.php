@@ -1,8 +1,8 @@
 <div class="speisekarte hauptkarte">
     <div>
-        <h4>Café surprise</h4>
+        <h4>Apfelzeit</h4>
         <ul>
-            <li>&nbsp;<span>6,50 €</span></li>
+            <li>Crumble mit Vanillesauce&nbsp;<span>7,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -14,9 +14,9 @@
     </div>
     <!--    -->
     <div>
-        <h4>Pavlova</h4>
+        <h4>Griesflammerie</h4>
         <ul>
-            <li>hausgemachtes Baiser mit Beerenobst, Pfirsich und Schlagsahne - eine echte Sünde: <span>8,50 €</span></li>
+            <li>mit Pflaumenkompott: <span>8,50 €</span></li>
         </ul>
     </div>
     <!--    -->

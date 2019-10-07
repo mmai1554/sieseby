@@ -34,3 +34,20 @@ die('not for you!');
 		<li>von der Holsteiner Färse mit unseren Pommes und Salat: <span>24,50 €</span></li>
 	</ul>
 </div>
+
+
+<div>
+	<h4>Café surprise</h4>
+	<ul>
+		<li>&nbsp;<span>6,50 €</span></li>
+	</ul>
+</div>
+<!--    -->
+
+<!--    -->
+<div>
+	<h4>Pavlova</h4>
+	<ul>
+		<li>hausgemachtes Baiser mit Beerenobst, Pfirsich und Schlagsahne - eine echte Sünde: <span>8,50 €</span></li>
+	</ul>
+</div>
