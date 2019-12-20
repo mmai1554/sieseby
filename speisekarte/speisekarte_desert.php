@@ -2,7 +2,7 @@
     <div>
         <h4>Crèpe am Tisch flambiert</h4>
         <ul>
-            <li>Pflaumenkompott <span>15,50</span></li>
+            <li>Pflaumenkompott <span>15,50 €</span></li>
             <li>(im Lieblingsmenü € 5,00 plus pro Person)</li>
         </ul>
     </div>

@@ -59,7 +59,16 @@
         <h4>Empfehlung zur Weihnachtszeit</h4>
         <ul>
             <li>2017 Bergdolt Klostergut, Spätburgunder<br>
-                Kalkmergel, Pfalz 0,2L <span>9,50 €</span></li>
+                Kalkmergel, Pfalz 0,2l <span>9,50 €</span></li>
+        </ul>
+    </div>
+    <!--    -->
+    <div>
+        <h4>Knusprige Bratkartoffeln und Salat</h4>
+        <ul>
+            <li>… <strong>mit Roastbeef</strong> und unserer Kräuterremoulade<span>23,50 €</span></li>
+            <li>… <strong>mit Ostseescholle</strong> und zerlassenem Speck<span>21,50 €</span></li>
+            <li>… <strong>vegan</strong>mit Zitronenpfeffer, Avocado-Dip<br> und hausgemachtem Curry-Ketchup<span>16,50 €</span></li>
         </ul>
     </div>
     <!--    -->
@@ -74,16 +83,16 @@
     <div>
         <h4>Chateaubriand 55 Grad - das Feinste vom Rind</h4>
         <ul>
-            <li>Grüne Bohnen, Kressebutter und<br>
+            <li>Grüne Bohnen, Kressebutter und
                 Sauce Béarnaise ab 2 Personen, am Tisch tranchiert,
-                hausgemachte Pommes oder Butterkartoffeln <span>p.P 38,50 €</span></li>
+                hausgemachte Pommes oder Butterkartoffeln <span>p.P 34,50 €</span></li>
         </ul>
     </div>
     <!--    -->
     <div>
         <h4>Weihnachtspäckchen</h4>
         <ul>
-            <li>Ostsee-Dorsch. Fenchel, Wirsing, Lauch<br>
+            <li>Ostsee-Dorsch, Fenchel, Wirsing, Lauch<br>
                 dazu blauer Quetsch <span>28,50 €</span></li>
         </ul>
     </div>
