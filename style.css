@@ -1,30 +1,23 @@
-/*
-Theme Name: Alt-Sieseby
-Description: BEaver Builder for alt-sieseby
-Version: 1.0
-Author: mmai
-Author URI: http://www.mai-internet.de
-Template: bb-theme
+@charset "UTF-8";
+/**
+Theme Name: Gasthof-Alt-Sieseby
+Author: MaiNetCare GmbH
+Author URI: https://mainetcare.de
+Description: Theme für Gasthof-Alt-Sieseby Website basierend auf Astra Pro Theme 2.x
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sieseby-theme
+Template: astra
 */
 @font-face { font-family: "Dustine Solid"; src: url("/wp-content/themes/sieseby/fonts/DustineSolid.eot"); src: url("/wp-content/themes/sieseby/fonts/DustineSolid.eot?#iefix") format("embedded-opentype"), url("/wp-content/themes/sieseby/fonts/DustineSolid.otf") format("opentype"), url("/wp-content/themes/sieseby/fonts/DustineSolid.svg") format("svg"), url("/wp-content/themes/sieseby/fonts/DustineSolid.ttf") format("truetype"), url("/wp-content/themes/sieseby/fonts/DustineSolid.woff") format("woff"), url("/wp-content/themes/sieseby/fonts/DustineSolid.woff2") format("woff2"); font-weight: normal; font-style: normal; }
-.mm-header > .fl-row-content-wrap { background: url(../../../wp-content/uploads/2016/07/umbau_sieseby.jpg) no-repeat scroll left center; background-size: cover; padding: 50px 0; }
-.mm-header > .fl-row-content-wrap .mm-header-sign { display: block; width: 350px; overflow: hidden; margin: 0 auto; }
+span.wpcf7-list-item { display: block; }
 
-.posts_home img { max-width: 100%; height: auto; }
+.wpcf7-not-valid-tip { color: #a2032f; }
 
-.fl-post-feed-post { border-bottom: 1px solid #c46d5e; margin-bottom: 40px; padding-bottom: 40px; }
+.wpcf7-validation-errors { border: 2px solid #a2032f; background-color: #FFF; }
 
-.fl-builder-pagination li a.page-numbers:hover, .fl-builder-pagination li span.current { background: #fff; text-decoration: none; }
-
-.fl-builder-pagination li a.page-numbers, .fl-builder-pagination li span.page-numbers { border: 1px solid #ffe5a5; display: inline-block; padding: 5px 10px; margin: 0 0 5px; }
-
-.mi-form select, .mi-form input[type='text'], .mi-form input[type='radio'], .mi-form input[type='password'], .mi-form input[type='tel'], .mi-form input[type='email'], .mi-form input[type='checkbox'], .mi-form input[type='date'], .mi-form textarea { background-color: #FFF; }
-.mi-form label { width: 100%; }
-.mi-form input[type='text'], .mi-form textarea { width: 100% !important; }
-.mi-form span.wpcf7-list-item { display: block; }
-.mi-form .wpcf7-not-valid-tip { color: #a2032f; }
-.mi-form .wpcf7-validation-errors { border: 2px solid #a2032f; background-color: #FFF; }
-.mi-form .wpcf7-mail-sent-ok { background-color: #FFF; }
+.wpcf7-mail-sent-ok { background-color: #FFF; }
 
 .fl-page-header-logo { text-align: left; }
 .fl-page-header-logo img { text-align: left; }
@@ -70,7 +63,7 @@ h4, h5 { font-family: "Roboto", Helvetica, serif; }
 .speisekarte td:nth-child(2) { text-align: right; white-space: nowrap; }
 @media (max-width: 768px) { .speisekarte td:nth-child(2) { font-size: 16px; } }
 .speisekarte div { margin: 40px 0; }
-.speisekarte h4 { font-family: "Droid Sans",sans-serif; font-size: 20px; font-weight: 700; color: #5b5b5b; }
+.speisekarte h4 { font-family: "Droid Sans", sans-serif; font-size: 20px; font-weight: 700; color: #5b5b5b; }
 .speisekarte ul { padding-left: 0; }
 .speisekarte ul li { display: flex; justify-content: space-between; list-style-type: none; margin-bottom: 10px; font-size: 20px; }
 .speisekarte ul li span { white-space: nowrap; font-weight: bold; align-self: flex-end; }

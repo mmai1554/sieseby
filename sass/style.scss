@@ -1,10 +1,13 @@
-/*
-Theme Name: Alt-Sieseby
-Description: BEaver Builder for alt-sieseby
-Version: 1.0
-Author: mmai
-Author URI: http://www.mai-internet.de
-Template: bb-theme
+/**
+Theme Name: Gasthof-Alt-Sieseby
+Author: MaiNetCare GmbH
+Author URI: https://mainetcare.de
+Description: Theme für Gasthof-Alt-Sieseby Website basierend auf Astra Pro Theme 2.x
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sieseby-theme
+Template: astra
 */
 @import "mi_mixins";
 
@@ -51,74 +54,24 @@ $prefix: '/wp-content/themes/sieseby';
   font-style: normal;
 }
 
-.mm-header > .fl-row-content-wrap {
-  background: url(../../../wp-content/uploads/2016/07/umbau_sieseby.jpg) no-repeat scroll left center;
-  background-size: cover;
-  padding: 50px 0;
 
-  .mm-header-sign {
-    display: block;
-    width: 350px;
-    overflow: hidden;
-    margin: 0 auto;
-  }
+span.wpcf7-list-item {
+  display: block;
 }
 
-.posts_home {
-  img {
-    max-width: 100%;
-    height: auto
-  }
+.wpcf7-not-valid-tip {
+  color: #a2032f;
 }
 
-.fl-post-feed-post {
-  border-bottom: 1px solid #c46d5e;
-  margin-bottom: 40px;
-  padding-bottom: 40px;
+.wpcf7-validation-errors {
+  border: 2px solid #a2032f;
+  background-color: #FFF;
 }
 
-.fl-builder-pagination li a.page-numbers:hover, .fl-builder-pagination li span.current {
-  background: #fff;
-  text-decoration: none;
+.wpcf7-mail-sent-ok {
+  background-color: #FFF;
 }
 
-.fl-builder-pagination li a.page-numbers, .fl-builder-pagination li span.page-numbers {
-  border: 1px solid darken(#ffecbe, 5%);
-  display: inline-block;
-  padding: 5px 10px;
-  margin: 0 0 5px;
-}
-
-.mi-form {
-  select, input[type='text'], input[type='radio'], input[type='password'], input[type='tel'], input[type='email'], input[type='checkbox'], input[type='date'], textarea {
-    background-color: #FFF;
-  }
-
-  label {
-    width: 100%;
-  }
-
-  input[type='text'], textarea {
-    width: 100% !important;
-  }
-
-  span.wpcf7-list-item {
-    display: block;
-  }
-
-  .wpcf7-not-valid-tip {
-    color: #a2032f;
-  }
-
-  .wpcf7-validation-errors {
-    border: 2px solid #a2032f;
-    background-color: #FFF;
-  }
-
-  .wpcf7-mail-sent-ok {
-    background-color: #FFF;
-  }
-}
 
 .fl-page-header-logo {
   text-align: left;
@@ -285,17 +238,21 @@ h4, h5 {
       font-size: 16px;
     }
   }
+
   div {
-    margin:40px 0;
+    margin: 40px 0;
   }
+
   h4 {
-    font-family: "Droid Sans",sans-serif;
-    font-size:20px;
-    font-weight:700;
-    color:#5b5b5b;
+    font-family: "Droid Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #5b5b5b;
   }
+
   ul {
     padding-left: 0;
+
     li {
       display: flex;
       justify-content: space-between;
