@@ -1,15 +1,17 @@
 <?php
+/**
+ * Define Constants
+ */
+define( 'CHILD_THEME_MAINETCARE_THEME_VERSION', '1.0.0' );
 
-// Defines
-define( 'FL_CHILD_THEME_DIR', get_stylesheet_directory() );
-define( 'FL_CHILD_THEME_URL', get_stylesheet_directory_uri() );
+/**
+ * Enqueue styles
+ */
+function child_enqueue_styles() {
+	wp_enqueue_style( 'astra-child-theme-css', get_stylesheet_directory_uri() . '/style.css', array( 'astra-theme-css' ), CHILD_THEME_MAINETCARE_THEME_VERSION, 'all' );
+}
 
-// Classes
-require_once 'classes/class-fl-child-theme.php';
-
-// Actions
-add_action( 'fl_head', 'FLChildTheme::stylesheet' );
-
+add_action( 'wp_enqueue_scripts', 'child_enqueue_styles', 15 );
 // enable Shortcodes in Widgets:
 add_filter( 'widget_text', 'do_shortcode' );
 
@@ -21,7 +23,7 @@ add_shortcode( 'speisekarte', function ( $atts ) {
 		return '';
 	}
 	ob_start();
-	include FL_CHILD_THEME_DIR.'/speisekarte/speisekarte_'.$template.'.php';
+	include get_stylesheet_directory_uri().'/speisekarte/speisekarte_'.$template.'.php';
 	$content = ob_get_clean();
 	return $content;
 } );
