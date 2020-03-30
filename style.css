@@ -10,7 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: sieseby-theme
 Template: astra
 */
-@font-face { font-family: "Dustine Solid"; src: url("/wp-content/themes/sieseby/fonts/DustineSolid.eot"); src: url("/wp-content/themes/sieseby/fonts/DustineSolid.eot?#iefix") format("embedded-opentype"), url("/wp-content/themes/sieseby/fonts/DustineSolid.otf") format("opentype"), url("/wp-content/themes/sieseby/fonts/DustineSolid.svg") format("svg"), url("/wp-content/themes/sieseby/fonts/DustineSolid.ttf") format("truetype"), url("/wp-content/themes/sieseby/fonts/DustineSolid.woff") format("woff"), url("/wp-content/themes/sieseby/fonts/DustineSolid.woff2") format("woff2"); font-weight: normal; font-style: normal; }
 span.wpcf7-list-item { display: block; }
 
 .wpcf7-not-valid-tip { color: #a2032f; }
@@ -19,51 +18,38 @@ span.wpcf7-list-item { display: block; }
 
 .wpcf7-mail-sent-ok { background-color: #FFF; }
 
-.fl-page-header-logo { text-align: left; }
-.fl-page-header-logo img { text-align: left; }
+.mnc-design .fl-builder-content a.fl-button, .mnc-design .fl-builder-content a.fl-button:visited { background-color: #366768; color: #FFFFFF; }
 
-.mi-figur img { max-width: 132px; text-align: right; }
+.mnc-design .fl-builder-content a.fl-button span { color: #FFFFFF; }
 
-.fl-page-nav-wrap { border: 0; }
+#HomeAktuell .ua-icon-icon-29-information { font-weight: 600; }
 
-.fl-page-header { padding-top: 20px; background-position: 0 20px; background-color: #FFF; }
-@media (max-width: 992px) { .fl-page-header { padding-top: 0; background-position: center; background-image: none; background-color: #80979D; }
-  .fl-page-header .fl-logo-img { display: block; margin: 0 auto; text-align: center; } }
+#HomeAktuell a { font-weight: 600; }
 
-.mi-tel { padding-top: 63px; color: #D0D8DB; }
-.mi-tel a { color: #D0D8DB; }
-.mi-tel a:hover { color: #D0D8DB; }
-@media (max-width: 768px) { .mi-tel { padding-top: 0; text-align: center; } }
+#Phoney { position: fixed; z-index: 900; right: 0; top: 0px; }
 
-.fl-page-content h1, .fl-page-content h2, .fl-page-content h3 { font-family: "Dustine Solid", sans-serif !important; color: #667e84; }
+.square .fl-icon i.ua-icon { border-radius: 0; }
 
-.mi-script h1, .mi-script h2, .mi-script h3, .mi-script h4, .mi-script h5, .mi-script h6 { font-family: "Pacifico", sans-serif !important; }
+.mnc-hover { transition: background-color 0.8s ease; }
 
-.mi-color-blue { color: #80979D !important; }
+.mnc-hover:hover { background-color: #eff2e5; }
 
-.mi-teaser .uabb-infobox-text { padding-left: 10px; padding-right: 10px; }
+.mnc-blogthumb { margin: -25px -25px 0 -25px; padding-bottom: 25px; }
 
-.fl-archive h2.fl-post-title { font-family: "Roboto", sans-serif !important; }
-.fl-archive h2.fl-post-title a { color: #3E6671; }
+.mnc-underline .fl-module-content a:hover { text-decoration: underline; }
 
-h4, h5 { font-family: "Roboto", Helvetica, serif; }
+.mnc-underline .uabb-info-list-content-wrapper:hover .uabb-info-list-title, .mnc-underline .uabb-info-list-content-wrapper:hover .uabb-info-list-description { text-decoration: underline; color: #333333; }
 
-.mi-wrapper-fb ul { float: left; margin-right: 10px; }
-.mi-wrapper-fb span { float: left; }
-.mi-wrapper-fb span:after { clear: both; }
-.mi-wrapper-fb i { color: #FFF !important; }
+body.blog header .fl-row-content-wrap { border-bottom: 0; }
 
-.speisekarte table { border-collapse: collapse; border: 0; width: 100%; }
-.speisekarte td { vertical-align: bottom; font-size: 20px; padding: 10px 5px; border-bottom: 2px dashed #f9df9f; }
-.speisekarte td p { line-height: inherit; padding: 0; margin: 0; }
-.speisekarte tr.grp td { border-bottom: 0; padding: 2px 5px; }
-.speisekarte tr.last td { padding: 2px 5px; border-bottom: 2px dashed #f9df9f; }
-.speisekarte td:first-child { width: 70%; font-size: 20px; text-align: left; }
-@media (max-width: 768px) { .speisekarte td:first-child { font-size: 16px; } }
-.speisekarte td:nth-child(2) { text-align: right; white-space: nowrap; }
-@media (max-width: 768px) { .speisekarte td:nth-child(2) { font-size: 16px; } }
-.speisekarte div { margin: 40px 0; }
-.speisekarte h4 { font-family: "Droid Sans", sans-serif; font-size: 20px; font-weight: 700; color: #5b5b5b; }
-.speisekarte ul { padding-left: 0; }
-.speisekarte ul li { display: flex; justify-content: space-between; list-style-type: none; margin-bottom: 10px; font-size: 20px; }
-.speisekarte ul li span { white-space: nowrap; font-weight: bold; align-self: flex-end; }
+.mnc-design .uabb-infobox-button a { background-color: #366768 !important; }
+
+.mnc-design .uabb-infobox-button a:hover { background-color: #2e6667 !important; }
+
+.mnc-design .fl-module-content a.fl-button, .mnc-design .fl-module-content a.fl-button:visited { background-color: #366768; color: #FFFFFF !important; }
+
+.mnc-design .fl-module-content a.fl-button span { color: #FFFFFF; }
+
+.mnc-design .fl-module-content a.fl-button:hover { background-color: #2e6667; }
+
+@-moz-document url-prefix() { h1 { position: absolute; top: -80px; left: 336px; } }

@@ -34,7 +34,7 @@ add_action( 'wp_enqueue_scripts', function () {
 	$load_scripts = false;
 	if ( is_singular() ) {
 		$post = get_post();
-		if ( $post->ID == 338 ) {
+		if ( in_array($post->ID , [338, 1648]) ) {
 			$load_scripts = true;
 		}
 	}
